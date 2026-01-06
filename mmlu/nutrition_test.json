@@ -1,0 +1,112 @@
+[
+  {
+    "question": ",apoA",
+    "options": [
+      "apoB",
+      "apoC",
+      "apoD",
+      "and apoE,apoA"
+    ],
+    "correctAnswer": "APO(A)"
+  },
+  {
+    "question": ",The end products of it fermentation is mainly malic",
+    "options": [
+      "succinic and propionic acids,Fermentation studies in vitro",
+      "with human faeces",
+      "have shown that soluble and insoluble forms are fermented completely within 24 hours,Fibre sources",
+      "such as hemicelluloses"
+    ],
+    "correctAnswer": "PECTINS AND INULIN ARE RAPIDLY FERMENTED TO SHORT CHAIN FATTY ACIDS"
+  },
+  {
+    "question": ",No significant difference; low-income urban and rural people face similar constraints in accessing food and consume similar diets in developing countries.,It will reduce poverty and hunger because these are almost entirely concentrated in rural areas.,Urban dwellers depend more than rural people on purchases to acquire food",
+    "options": [
+      "have little opportunity to grow their own food",
+      "and so are much more vulnerable to food price increases.,Poor city folk eat mainly sorghum",
+      "millet",
+      "maize and root crops"
+    ],
+    "correctAnswer": "SO A LOT MORE OF THOSE FOODS WILL NEED TO BE PRODUCED AS THE WORLD URBANISES.,C"
+  },
+  {
+    "question": ",Fat = 17%",
+    "options": [
+      "Fat Free Mass=83%",
+      "Intracellular Fluid= 40%",
+      "Extracellular Fluid= 20%,Fat = 83%",
+      "Fat Free Mass=40%"
+    ],
+    "correctAnswer": "INTRACELLULAR FLUID= 17%"
+  },
+  {
+    "question": ",BP < 140/90",
+    "options": [
+      "Trig <150",
+      "LDL < 100,BP < 130/85",
+      "Trig < 300",
+      "LDL < 100,BP < 135/80"
+    ],
+    "correctAnswer": "TRIG < 200"
+  },
+  {
+    "question": ",Starch mainly contains amylose",
+    "options": [
+      "which is a polymer of fructose with alpha 1",
+      "4-linkages,Starch mainly contains amylose",
+      "which is a polymer of glucose with alpha 1",
+      "4-linkages,Starch mainly contains amylose"
+    ],
+    "correctAnswer": "WHICH IS A POLYMER OF FRUCTOSE WITH BETA 1"
+  },
+  {
+    "question": ",Normal energy intake",
+    "options": [
+      "normal body weight and hyperthyroidism,Obesity",
+      "excess energy intake",
+      "normal growth and hypoinsulinaemia,Obesity",
+      "abnormal growth"
+    ],
+    "correctAnswer": "HYPOTHYROIDISM"
+  },
+  {
+    "question": ",As income rises",
+    "options": [
+      "the proportion of income spent on food",
+      "declines,As income rises",
+      "the proportion of income spent on food",
+      "increases,As income rises"
+    ],
+    "correctAnswer": "THE PROPORTION OF INCOME SPENT ON FOOD"
+  },
+  {
+    "question": ",Low haemoglobin",
+    "options": [
+      "high ferritin",
+      "high serum transferrin receptors",
+      "high hepcidin,Low haemoglobin",
+      "low ferritin"
+    ],
+    "correctAnswer": "HIGH SERUM TRANSFERRIN RECEPTORS"
+  },
+  {
+    "question": ",Cow's milk",
+    "options": [
+      "egg,Mustard seeds",
+      "lamb",
+      ",Soy",
+      "peanuts,Fish"
+    ],
+    "correctAnswer": "SHELLFISH,B"
+  },
+  {
+    "question": ",Acetaldehyde",
+    "options": [
+      "acetate",
+      ",Pyruvate",
+      "beta-hydroxybutyrate",
+      ",Acetyl-CoA"
+    ],
+    "correctAnswer": "LIPIDS"
+  }
+]
